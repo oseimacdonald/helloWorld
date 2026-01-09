@@ -1,68 +1,28 @@
-Overview
+# Overview
 
-As part of my ongoing development as a software engineer, I created a comprehensive Bitcoin Trading Analysis System that combines data analysis with automated trading capabilities. This project represents my effort to build practical skills in financial data processing, algorithmic decision-making, and API integration while creating a tool with real-world applications in cryptocurrency markets.
+As part of my growth as a software engineer, I created this project to ensure that my development environment is properly set up and that I can successfully write, run, document, and publish software using industry-standard tools. This project establishes a foundation that I will build on throughout future software development work.
 
-The software is a JavaScript-based application that connects to the Binance API to retrieve Bitcoin market data, performs technical analysis using indicators like moving averages and trend detection, and implements rule-based trading logic to execute buy/sell decisions. The system demonstrates a complete data pipeline from raw market data collection through analysis to actionable trading decisions.
+The software is a simple "Hello World" program written in JavaScript. When executed, it prints a message to the console, confirming that the runtime environment and tooling are functioning correctly.
 
-My purpose for developing this system was to deepen my understanding of financial data structures, real-time API integration, and algorithmic trading principles. This project allowed me to explore the intersection of data science and practical software engineering while building a portfolio piece that showcases both analytical and development skills.
+The purpose of creating this software was to verify my development setup, practice basic JavaScript execution, and demonstrate my ability to use Git, GitHub, documentation, and video walkthroughs as part of a complete software development workflow.
 
-Software Demo Video
-Development Environment
+[Software Demo Video](http://youtube.link.goes.here)
 
-Tools Used:
+# Development Environment
 
-    Node.js v18+ - Runtime environment for JavaScript
+The following tools were used to develop this software:
 
-    Visual Studio Code - Primary development IDE
+- Visual Studio Code as the code editor  
+- Node.js as the JavaScript runtime environment  
+- Git for version control  
+- GitHub for hosting and publishing the repository  
 
-    Git & GitHub - Version control and repository hosting
+The programming language used for this project is **JavaScript**, executed using **Node.js**.
 
-    Postman - API testing and documentation
+# Useful Websites
 
-    JSDoc - Code documentation generation
+The following websites were helpful during this project:
 
-Libraries and Frameworks:
-
-    axios - HTTP client for API requests
-
-    technicalindicators - Library for calculating trading indicators
-
-    dotenv - Environment variable management
-
-    express (optional) - For building a dashboard interface
-
-    chart.js (optional) - For data visualization
-
-Programming Languages:
-
-    JavaScript (Node.js) - Primary implementation language
-
-    JSON - Data interchange format
-
-    Markdown - Documentation
-
-Useful Websites
-
-    Binance API Documentation - Comprehensive API reference for market data and trading endpoints
-
-    Technical Analysis Library - JavaScript library for financial indicators
-
-    MDN Web Docs - Async/Await - Essential for handling asynchronous API calls
-
-    Node.js Documentation - Core Node.js API reference
-
-    Algorithmic Trading Strategies - Background on trading methodologies and risk management
-
-Future Work
-
-    Implement additional technical indicators (RSI, MACD, Bollinger Bands)
-
-    Add paper trading simulation mode for strategy testing
-
-    Develop a web dashboard for real-time monitoring
-
-    Incorporate machine learning for predictive analysis
-
-    Add multi-currency support beyond Bitcoin
-
-    Implement risk management features (stop-loss, take-profit orders)
+* [Node.js Documentation](https://nodejs.org/en/docs/)
+* [GitHub Documentation](https://docs.github.com/)
+* [MDN JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
