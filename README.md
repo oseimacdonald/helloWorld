@@ -1,6 +1,6 @@
 # Overview
 
-As part of my growth as a software engineer, I created this project to ensure that my development environment is properly set up and that I can successfully write, run, document, and publish software using industry-standard tools. This project establishes a foundation that I will build on throughout future software development work.
+As part of my growth as a software developer, I created this project to ensure that my development environment is properly set up and that I can successfully write, run, document, and publish software using industry-standard tools. This project establishes a foundation that I will build on throughout future software development work.
 
 The software is a simple "Hello World" program written in JavaScript. When executed, it prints a message to the console, confirming that the runtime environment and tooling are functioning correctly.
 
